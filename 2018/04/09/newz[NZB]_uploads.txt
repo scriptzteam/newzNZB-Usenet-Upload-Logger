@@ -1,4 +1,3 @@
-20:09.
 20:09 -> Adobe.Aldus.LT.Std.CrossPlatform.Commercial.Font-SERiF_[15d69791a]
 20:09 -> Adobe.Joanna.MT.Std.CrossPlatform.Commercial.Font-SERiF_[59617f072]
 20:09 -> Adobe.Celestia.Antiqua.Std.CrossPlatform.Commercial.Font-SERiF_[b9b9cbccf]
