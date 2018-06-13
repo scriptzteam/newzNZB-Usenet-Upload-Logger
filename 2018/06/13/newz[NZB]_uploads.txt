@@ -1,4 +1,6 @@
-15:35.
+15:38 -> Champions.S01E09.SPANiSH.WEB.x264-FERiCE_[449b25c97]
+15:37 -> Champions.S01E09.SPANiSH.720p.WEB.x264-FERiCE_[20e64b110]
+15:36 -> Champions.S01E09.SPANiSH.1080p.WEB.x264-FERiCE_[9eebf0760]
 15:35 -> Hogans.Heroes.S01E01.The.Informer.1080p.BluRay.REMUX.AVC.DTS-HD.MA.1.0-EPSiLON_[eb9105275]
 15:34 -> Champions.S01E08.SPANiSH.WEB.x264-FERiCE_[1b1babf0d]
 15:33 -> Champions.S01E08.SPANiSH.720p.WEB.x264-FERiCE_[80ab0fd57]
@@ -400,6 +402,7 @@
 13:50 -> Kitchen.Boss.S02E19.Mardi.Gras.1080p.WEB.x264-CAFFEiNE_[45457fc2f]
 13:50 -> Extreme.Cheapskates.S01E07.Roy.and.Ben.1080p.WEB.x264-CAFFEiNE_[02161fadf]
 13:50 -> Jimmy.Fallon.2018.06.12.Jeremy.Renner.WEB.x264-TBS_[9d065ea5a]
+13:50.
 13:49 -> Archer.S06E08.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR_[592b8b640]
 13:49 -> Portlandia.S08E04.1080p.WEB.x264-EDHD_[492dd8dcd]
 13:49 -> Blackish.S03E21.1080p.WEB.H264-EDHD_[a69e26602]
