@@ -1,3 +1,6 @@
+04:39 -> Packt.Publishing.Mapping.and.Styling.in.D3-XQZT_[67aabacce]
+04:37 -> Packt.Beginning.ASPDOTNET-XQZT_[8e99fe4bf]
+04:36 -> Packt.2018.Python.Regular.Expressions.Real.World.Projects-XQZT_[2562f1536]
 04:34 -> Lynda.Vanilla.JavaScript.Animations-XQZT_[f6c955b86]
 04:33 -> Lynda.Learning.Dynamics.Talent-ZH_[2347b0f39]
 04:31 -> Lynda.Advanced.Node.js-XQZT_[c93f05820]
