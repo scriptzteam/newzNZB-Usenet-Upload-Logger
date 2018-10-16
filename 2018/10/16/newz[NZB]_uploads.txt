@@ -1,11 +1,33 @@
-04:34.
+04:39 -> The.Dumping.Ground.S03E11.720p.WEBRip.h264-spamTV_[f2c7d996b]
+04:39.
+04:39 -> The.Circus.S03E11.California.Dreaming.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[newzNZB]_[3473ebaac]
+04:39 -> The.Honeymooners.S01E08.Pal.o.Mine.1080p.BluRay.REMUX.AVC.FLAC.2.0-EPSiLON_[af3b59739]
+04:38imported
+04:38 -> The.Dumping.Ground.S03E11.720p.WEBRip.h264-spamTV_[76d30c8fb]
+04:38 -> Slender.Man.2018.BRRip.XviD.MP3-XVID_[4d91a1f17]
+04:38error
+04:38 -> Slender.Man.2018.BRRip.XviD.AC3-XVID_[81e85f5bb]
+04:37 -> Slender.Man.2018.BDRip.x264-DRONES[newzNZB]_[b6f3920d9]
+04:37 -> Slender.Man.2018.720p.BRRip.XviD.AC3-XVID_[55f593887]
+04:36 -> Record.Super.Chart.557.(2018)_[17bb58541]
+04:36 -> Secrets.of.the.Dead.S14E03.The.Real.Trojan.Horse.HDTV.x264-W4F_[f0a626899]
+04:36 -> Progressive.House.Autumn.Essentials.(2018)_[85bc6cf3c]
+04:36 -> Murdoch.Mysteries.S12E04.1080p.WEBRip.x264-TBS[newzNZB]_[9f407d4c7]
+04:36 -> The.Brain.with.David.Eagleman.S01E01.What.is.Reality.HDTV.x264-W4F_[e567315e7]
+04:35 -> Manifest.S01E04.HDTV.x264-KILLERS[newzNZB]_[117478604]
+04:35 -> Manifest.S01E04.720p.HDTV.x264-KILLERS[newzNZB]_[768f9a13c]
+04:35 -> Magnum.P.I.2018.S01E04.HDTV.x264-SVA[newzNZB]_[fcb6b9938]
+04:35 -> Magnum.P.I.2018.S01E04.720p.HDTV.x264-AVS[newzNZB]_[8703c9788]
+04:34 -> Happy.Together.2018.S01E03.iNTERNAL.720p.WEB.x264-BAMBOOZLE[newzNZB]_[4f6e185d8]
+04:34 -> Happy.Together.2018.S01E03.HDTV.x264-SVA[newzNZB]_[a4e68f941]
+04:34 -> Happy.Together.2018.S01E03.720p.HDTV.x264-AVS[newzNZB]_[062c3ab06]
+04:34 -> Happy.Together.2018.S01E03.1080p.WEB.x264-TBS[newzNZB]_[39366a13d]
 04:34 -> Brake.Room.S01E05.Jesse.James.vs.Jessi.Combs.WEB.x264-CAFFEiNE_[cf2a05904]
 04:33 -> Frankie.Drake.Mysteries.S02E04.WEBRip.x264-TBS[newzNZB]_[0d3376420]
 04:33 -> The.Simpsons.S30E03.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ_[365a82332]
 04:33 -> Frankie.Drake.Mysteries.S02E04.720p.WEBRip.x264-TBS[newzNZB]_[e3111de70]
 04:33 -> Deva_Mahal-Run_Deep-CD-FLAC-2018-FORSAKEN_[84f9bf3d3]
 04:33 -> Frankie.Drake.Mysteries.S02E04.1080p.WEBRip.x264-TBS[newzNZB]_[8de1e0922]
-04:33imported
 04:32 -> The.Daily.Show.2018.10.15.Amandla.Stenberg.EXTENDED.1080p.WEB.x264-TBS_[34ab4705e]
 04:32 -> Dennis.The.Menace.And.Gnasher.2009.S02E46.720p.WEBRip.h264-SOAPBOX_[06b1b9049]
 04:32 -> Bull.2016.S03E04.HDTV.x264-KILLERS[newzNZB]_[b0d019343]
@@ -980,7 +1002,6 @@
 03:28 -> Manifest.S01E04.HDTV.x264-KILLERS[newzNZB]_[039e9d885]
 03:28 -> Magnum.P.I.2018.S01E04.HDTV.x264-SVA[newzNZB]_[423e11e2a]
 03:28 -> Unexpected.S02E12.Baby.Bumps.WEB.x264-CAFFEiNE_[cae8926f6]
-03:28error
 03:28 -> Magnum.P.I.2018.S01E04.720p.HDTV.x264-AVS[newzNZB]_[83b9d3077]
 03:28 -> The.Daily.Show.2018.10.15.Amandla.Stenberg.EXTENDED.WEB.x264-TBS[newzNZB]_[42ee873f1]
 03:28 -> Stunt.Science.S01E05.WEB.x264-ASCENDANCE_[6fb6eb934]
