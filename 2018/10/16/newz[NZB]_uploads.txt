@@ -1,6 +1,11 @@
-13:24.
+13:27 -> Off.Camera.With.Sam.Jones.Tatiana.Maslany.HDTV.x264_TTL_[660a8dc26]
+13:27imported
+13:26 -> Chicago.PD.S04E10.1080p.AMZN.WEB-DL.DD5.1.H.265-SiGMA_[0f313c457]
+13:26 -> The.Apprentice.UK.S11E02.HDTV.x264-TASTETV_[8f07e5b06]
+13:25 -> The.Apprentice.UK.S11E02.HDTV.x264-TASTETV_[fe5d87a9d]
+13:25.
+13:24 -> Manifest.S01E04.Unclaimed.Baggage.720p.AMZN.WEBRip.DDP5.1.x264-AJP69[newzNZB]_[a56e5d4ca]
 13:24 -> Chicago.PD.S04E12.1080p.AMZN.WEB-DL.DD5.1.H.265-SiGMA_[816e82c11]
-13:24imported
 13:24 -> Manifest.S01E04.Unclaimed.Baggage.1080p.AMZN.WEBRip.DDP5.1.x264-AJP69[newzNZB]_[6e385dde5]
 13:23 -> The.Celebrity.Apprentice.AU.S04E05.PDTV.x264-CBFM.mp4_[a81bcbd58]
 13:22 -> MP3-daily-2018-October-15-Gothic.Rock_[21e2dd1a9]
